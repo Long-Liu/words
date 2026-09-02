@@ -1,0 +1,690 @@
+# 来源：高考英语核心高频688词汇.pdf
+# 格式：word|词性|中文释义。词性含 n/v/a/d 时分别控制生成复数/动词变形/比较级。
+# 词条数：687
+abandon|v|v.放弃，抛弃
+abnormal|a|adj.不正常的
+absence|n|n.缺乏，缺席
+absolute|a|adj.绝对的，完全的
+absorb|v|v.吸收，吸引
+abstract|a|adj.抽象的，理论的
+abundant|a|adj.丰富的
+abuse|n v|n./v.滥用,虐待
+academic|a n|adj.学术的；n.教授
+accelerate|v|v.加速
+accent|n|n.口音，重音
+acceptable|a|adj.可接受的
+accessible|a|adj.易接近的；可得到的
+accommodation|n|n.住处，适应
+accompany|v|v.陪伴
+accomplish|v|v.实现，完成第12页共16页
+account|n v|n.帐户，事情；v.说明（for）
+accumulate|v|v.积累
+accurate|a|adj.精确的
+accuse|v|v.控告(of)，指责
+accustom|v|v.使习惯(to)
+achievement|n|n.成就
+acknowledge|v|v.承认
+acquire|v|v.获得，学到
+adapt|v|v.适应(to)，改编
+addiction|n|n.上瘾(to)
+addition|n|n.增加
+adequate|a|adj.足够的
+adjust|v|v.调节，使适应(to)
+administration|n|n.管理，行政
+admire|v|v.钦佩，羡慕
+adolescent|a n|adj.青春期的；n.青少年
+adopt|v|v.采用，收养
+adore|v|v.爱慕，崇拜
+advance|a n|n.前进；adj.提前的
+advocate|v|v.提倡
+affair|n|n.事件
+affect|v|v.影响
+affordable|a|adj.支付得起的
+aggressive|a|adj.好斗的，上进的
+allocate|v|v.分配
+alternative|a n|adj.供选择的；n.替换物
+amaze|v|v.使吃惊
+ambiguous|a|adj.模棱两可的
+ambition|n|n.雄心
+amuse|v|v.娱乐
+analyze|v|v.分析
+ancestor|n|n.祖宗
+ancient|a|adj.古老的
+angle|n|n.角度
+anniversary|n|n.周年纪念
+announce|v|v.宣布
+annoy|v|v.使恼怒
+annual|a|adj.每年的
+anonymous|a|adj.匿名的
+antique|a n|adj.古老的；n.古董
+anxiety|n|n.焦虑
+apologize|v|v.道歉(tosbforsth)
+apparent|a|adj.明显的
+appeal|n v|n.呼吁；v.吸引，呼吁(to)
+appetite|n|n.食欲(for)，嗜好
+applause|n|n.鼓掌
+apply|v|v.应用(to)，申请(for)
+appointment|n|n.约会
+appreciate|v|v.欣赏，感激
+approach|n v|v.靠近；n.途径，方法(to)第5页共16页
+appropriate|a|adj.适当的
+approve|v|v.赞同，同意(of)
+approximately|d|adv.大约地，近似地
+aptitude|n|n.潜能
+architect|n|n.建筑师
+argument|n|n.观点(on/about)，争论
+arise|v|v.出现
+arouse|v|v.引起
+arrange|v|v.安排
+arrest|v|v.逮捕
+artificial|a|adj.人造的
+ashamed|a|adj.感到惭愧的(of)
+aspect|n|n.方面
+assemble|v|v.聚集
+assertive|a|adj.坚定的
+assess|v|v.评定，评估
+assignment|n|n.分配，任务第10页共16页
+assistant|n|n.助手
+associate|v|v.联系(with)
+assume|v|v.假定，设想
+astonish|v|v.使惊讶
+astronaut|n|n.宇航员
+athletic|a|adj.运动的，健壮的
+atmosphere|n|n.大气，氛围
+attach|v|v.附上，系上(to)
+attack|n v|n.攻击；v.攻击
+attain|v|v.获得
+attempt|n v|v.企图，尝试(to)；n.试图
+attend|v|v.出席，关心（to）；处理(to)
+attribute|n v|v.把...归于(to)；n.品质
+automatic|a|adj.自动的
+available|a|adj.可利用的(to)，可获得的，有空的
+average|a|adj.平均的
+avoid|v|v.避免
+aware|a|adj.意识到的(of)
+awful|a|adj.糟糕的
+awkward|a|adj.尴尬的第15页共16页
+background|n|n.背景第8页共16页
+bankrupt|a|adj.破产的
+barely|d|adv.几乎不第13页共16页
+bargain|n v|n.便宜货；v.讨价还价
+belief|n|n.信念，信仰
+beneath||prep.在…之下
+beneficial|a|adj.有益的(to)
+bid|v|v.出价，投标
+bitter|a|adj.苦的，痛苦的
+block|n v|n.街区；v.阻塞
+bound|a|adj.必定的(to)
+boundary|n|n.边界，分界线
+breakthrough|n|n.突破
+brief|a|adj.短暂的，简短的
+brilliant|a|adj.卓越的，杰出的
+broaden|v|v.变宽，扩大
+burden|n v|n.负担；v.使...负重
+burst|v|v.爆发(into/out)，闯入
+bury|v|v.埋葬
+calculate|v|v.计算
+cancel|v|v.取消
+candidate|n|n.候选人
+capability|n|n.能力第14页共16页
+capital|a n|n.首都，资本；adj.大写的，资本的
+capture|v|v.捕获，占领
+cast|v|v.投射，掷
+casual|a|adj.不经心的，偶然的
+category|n|n.种类
+cater|v|v.迎合（for)
+cause|n v|v.引起；n.原因，事业
+cautious|a|adj.谨慎的，小心的
+celebrate|v|v.庆祝
+ceremony|n|n.典礼
+certificate|n|n.证书，执照
+chain|n|n.链条，一连串
+champion|n v|n.冠军；v.保卫
+character|n|n.个性，人物，汉字
+charge|n v|n.费用，指控；v.要价(for)，管理，充电
+charity|n|n.慈善
+charm|n|n.魅力
+cheat|n v|n.骗子；v.欺骗
+check|n v|n.支票，检查；v.核对
+chemical|a n|adj.化学的；n.药品
+cheque|n|n.支票
+cherish|v|v.珍爱
+chief|a n|adj.主要的，首要的；n.首领
+citizen|n|n.市民
+civil|a|adj.国内的，公民的
+clarify|v|v.阐明
+classify|v|v.分类
+colleague|n|n.同事
+collection|n|n.收集
+combine|v|v.结合(with)
+command|v|v.命令，获得
+commercial|a|adj.商业的
+communicate|v|v.交流(with)
+compare|v|v.比较(with)；比喻(to)
+compete|v|v.比赛(with/for/against)
+complain|v|v.抱怨(about)
+complete|a v|v.完成；adj.完成的
+complex|a|adj.复杂的
+compose|v|v.组成，编排，作曲，创作第11页共16页
+compound|n|n.化合物
+comprehension|n|n.理解
+concentrate|v|v.专心，集中(on)
+concept|n|n.概念
+concern|v|v.关心(about)，涉及
+concert|n|n.音乐会
+conclude|v|v.总结
+condition|n|n.情况，条件
+conduct|v|v.实施
+confidence|n|n.信心
+confirm|v|v.确定
+conflict|n|n.冲突
+confuse|v|v.使困惑
+connect|v|v.连接，联系(with)
+conscience|n|n.良心
+consequence|n|n.后果
+conservation|n|n.保护，保存
+consider|v|v.考虑，认为
+consist|v|v.由…组成(of)，在于(in)
+constant|a|adj.持续不断的
+construct|v|v.建造，构造
+consult|v|v.咨询，请教
+consume|v|v.消耗，消费
+contact|n v|v.接触，联系(with)；n.接触，联系
+contain|v|v.包含
+contemporary|a|adj.当代的
+content|a n|n.内容，目录；adj.满意的(with)
+contest|n v|n.竞赛；v.竞赛
+contract|n v|n.合同；v.订合同
+contribute|v|v.贡献，致力于(to)
+convenient|a|adj.方便的
+cooperate|v|v.合作(with)
+correspond|v|v.对应(to)
+courageous|a|adj.勇敢的
+creative|a|adj.创造性的
+credit|n|n.信用
+crime|n|n.罪行
+crisis|n|n.危机
+critical|a|adj.批评的，决定性的
+curiosity|n|n.好奇心
+current|a|adj.现在的
+damage|n v|v.损害；n.损害
+damp|a|adj.潮湿的
+dash|n v|v.猛冲；n.猛冲
+deadline|n|n.截止时间
+deal|n v|v.处理（with）；n.交易
+debate|n v|v.辩论；n.辩论
+decade|n|n.十年
+deceive|v|v.欺骗
+decisive|a|adj.决定性的
+declare|v|v.声明
+decline|n v|v.下降，拒绝；n.衰落
+decorate|v|v.装饰
+decrease|n v|v.降低；n.降低
+deed|n|n.行为
+defect|n|n.缺陷
+defend|v|v.保卫，辩护
+define|v|v.定义
+degrade|v|v.降解，退化
+delay|n v|v.推迟；n.耽搁
+delete|v|v.删除
+deliberately|d|adv.故意地
+delicate|a|adj.脆弱的，精细的
+delight|n v|n.高兴vt.使高兴
+deliver|v|v.递送，发表（演讲），生孩子，给……接生
+democratic|a|adj.民主的
+demolition|n|n.破坏，毁坏
+demonstrate|v|v.证明，演示
+depart|v|v.离开，死亡
+desert|n v|n.沙漠；v.遗弃
+deserve|v|v.值得
+desire|n v|n.渴望；v.渴望
+desperate|a|adj.绝望的
+destination|n|n.目的地
+destruction|n|n.破坏，毁灭第4页共16页
+determine|v|v.下决心
+devote|v|v.致力于(to)
+directly|d|adv.直接地
+disability|n|n.残疾
+disappoint|v|v.使失望
+distant|a|adj.遥远的
+distinct|a|adj.不同的
+distinguish|v|v.区别(from)
+eager|a|adj.渴望的(to)
+economic|a|adj.经济的
+embarrass|v|v.使尴尬
+emergency|n|n.突发事件
+emotion|n|n.情绪
+emphasis|n|n.强调(on)，重点
+enable|v|v.使能够
+engage|v|v.从事(in)，订婚
+ensure|v|v.确保
+entire|a|adj.全部的
+equal|a v|adj.相等的；v.等于(to)
+equipment|n|n.设备
+erupt|v|v.喷发
+essential|a|adj.本质的，基础的，必要的
+estimate|v|v.估计
+evaluate|v|v.评价
+exchange|n v|n.交换；v.交换(for)
+exclaim|v|v.呼喊
+exclude|v|v.排除
+exhausted|a|adj.精疲力竭的
+expect|v|v.预料，期待
+expense|n|n.花费
+explode|v|v.爆炸第9页共16页
+exploit|v|v.利用，开发
+expose|v|v.揭露，暴露(to)
+facility|n|n.设施
+fairly|d|adv.公正地，相当地
+faithfully|d|adv.忠实地第7页共16页
+fancy|v|v.想象，喜欢
+fantasy|n|n.幻想
+fascinate|v|v.使入迷
+fasten|v|v.使固定，系(to)
+favor|n v|n.好意；v.偏爱
+feature|n|n.特征
+federal|a|adj.联邦的
+feed|v|v.喂养，以……为食(on)
+fellow|n|n.同事，家伙
+fetch|v|v.取来
+fierce|a|adj.强烈的，凶猛的
+figure|n v|n.人物；v.算出，领会(out)
+fit|a v|adj.适宜的；健康的；v.安装(in)，适合
+flexible|a|adj.灵活的
+focus|n v|n.焦点；v.聚焦(on)
+fond|a|adj.喜欢的(of)
+forbid|v|v.禁止
+force|n v|v.强迫；n.力量
+format|n v|n.板式；v.设计
+fortunate|a|adj.幸运的
+foster|a v|v.培养；adj.收养的
+foundation|n|n.基金会，基础
+freezing|a|adj.冰冻的
+frequently|d|adv.频繁地
+frighten|v|v.使惊吓
+fulfill|v|v.完成
+function|n v|n.功能；v.起作用
+fundamental|a n|adj.基本的；n.基础
+gap|n|n.缺口，差距
+gather|n v|v.聚集；n.聚集
+general|a|adj.普遍的
+giant|a|adj.巨大的
+glance|n v|v.扫视(at)；n.一瞥
+gradually|d|adv.逐渐地
+grant|v|v.授予，认为
+grasp|n v|v.领会，抓住；n.抓住，领会
+grateful|a|adj.感激的(to)
+gravity|n|n.重力
+greedy|a|adj.贪婪的
+guarantee|n v|v.保证；n.保证
+guard|n v|v.保卫；n.看守
+guidance|n|n.指导
+guilty|a|adj.内疚的(of)，有罪的
+habitat|n|n.栖息地，产地
+handle|v|v.处理
+hang|v|v.悬挂
+harbour|n|n.港口
+hardly|d|adv.几乎不
+harmony|n|n.和谐
+hesitate|v|v.犹豫
+hire|v|v.雇请
+historical|a|adj.历史的
+honorable|a|adj.光荣的
+horizon|n|n.地平线
+host|n v|n.主人，主持人；v.主办，主持
+household|n|n.家庭
+hurricane|n|n.飓风
+identify|v|v.识别，鉴定
+illegal|a|adj.非法的
+illusion|n|n.错觉
+imagination|n|n.想象力
+immigrant|n|n.移民
+impact|n|n.影响
+impractical|a|adj.不切实际的
+impress|v|v.使...有印象(on)
+improve|v|v.改善，提高
+jog|v|v.慢跑
+judge|n v|v.判断；n.法官，裁判
+justice|n|n.正义
+keen|a|adj.热衷的(on)；敏锐的
+labor|n|n.劳力
+lack|n v|n.缺乏；v.缺乏(of/in)
+lately|d|adv.最近
+latter|a|adj.后者的
+lead|n v|v.导致（to），带领；过（…的生活）；n.领头位置
+leak|v|v.渗出，泄露
+lean|v|v.倚，倾斜
+legal|a|adj.合法的，法律的
+legend|n|n.传奇
+lighten|v|v.照亮
+literature|n|n.文学
+loose|a|adj.宽松的，松散的
+luxury|n|n.豪华，奢侈
+maintain|v|v.维持
+manage|v|v.管理，设法（to）
+manufacture|n v|n.制造，制造业；v.制造
+matter|n v|n.事情；v.要紧
+mature|a|adj.成熟的
+migrate|v|v.迁移，迁徙
+mild|a|adj.轻微的，温和的
+minimize|v|v.使减(缩)小到最低
+minor|a|adj.较小的，次要的
+miracle|n|n.奇迹
+miserable|a|adj.悲惨的
+mislead|v|v.误导
+mistaken|a|adj.错误的
+moderate|a|adj.适度的
+modify|v|v.修饰，更改
+moral|a|adj.道德的
+motivate|v|v.激发
+multiple|a|adj.多种多样的
+murder|n v|n.谋杀；v.谋杀
+mysterious|a|adj.神秘的
+narrow|a v|v.（使）变窄；adj.狭窄的
+necessarily|d|adv.必然地
+negative|a|adj.消极的，负面的
+neglect|v|v.忽视，忽略
+negotiate|v|v.协商(with)
+noble|a|adj.高贵的，贵族的
+notorious|a|adj.臭名昭著的
+numerous|a|adj.许多的
+obesity|n|n.肥胖
+object|n v|v.反对(to)；n.目标，物体
+occasion|n|n.场合，时机
+offence|n|n.冒犯，犯罪
+offer|v|v.提供
+official|a|adj.正式的；官方的
+operate|v|v.操作，经营，动手术(on)
+opponent|n|n.对手
+opportunity|n|n.机会
+opposite|a|adj.相反的，对面的
+optimistic|a|adj.乐观的
+optional|a|adj.任选的
+ordinary|a|adj.平凡的，普通的
+organize|v|v.组织，安排
+original|a|adj.原始的，最初的
+overcome|v|v.战胜，克服
+overwhelm|v|v.打击，压倒
+paradise|n|n.天堂
+participate|v|v.参加，参与(in)
+particular|a|adj.特别的
+pause|n v|v.停顿；n.暂停
+pavement|n|n.人行道
+payment|n|n.支付，报酬
+peak|n|n.山峰，顶端
+pedestrian|n|n.路人
+peer|n v|n.同辈；v.凝视
+percent|n|n.百分比
+perception|n|n.观念，洞察力
+perform|v|v.执行，表演
+permanent|a|adj.永久的
+permit|v|v.允许
+persist|v|v.坚持(in)
+personal|a|adj.私人的
+perspective|n|n.看法
+persuade|v|v.说服
+pesticide|n|n.杀虫剂
+physical|a|adj.物质的，身体的
+pile|n|n.堆，大量
+pirate|n|n.海盗，盗版者
+plastic|a n|n.塑料；adj.可塑的
+poison|v|v.毒害
+polish|v|v.磨光，擦亮，完善，改进
+political|a|adj.政治的
+pollution|n|n.污染
+popularity|n|n.普及，流行
+portable|a|adj.手提式的
+position|n v|n.位置，立场；v.定位，安置
+positive|a|adj.积极的
+possess|v|v.拥有
+potential|a n|adj.潜在的；n.潜力
+poverty|n|n.贫困
+praise|n v|n.称赞；v.称赞
+precious|a|adj.珍贵的
+precise|a|adj.精确的
+predict|v|v.预言
+prefer|v|v.更喜欢
+pregnant|a|adj.怀孕的
+prejudice|n|n.偏见
+present|a n v|adj.当前的，出席的；v.呈现；n.礼物
+preserve|v|v.保护，保存
+pressure|n|n.压力，压强
+prevent|v|v.阻止
+previous|a|adj.以前的
+primary|a|adj.主要的；首要的，初级的
+principle|n|n.原则
+priority|n|n.优先
+prison|n|n.监狱
+private|a|adj.私人的，秘密的
+procedure|n|n.程序
+produce|v|v.生产，引起
+professional|a n|adj.专业的；职业的n.职业人士，专业人员
+profit|n v|n.利润，利益；v.获利
+promise|n v|n.诺言；v.允诺，答应第2页共16页
+promote|v|v.促进，促销，升迁
+propose|v|v.计划，提议，求婚
+prosperity|n|n.繁荣，兴旺
+protect|v|v.保护
+protest|v|v.抗议(against)
+psychology|n|n.心理，心理学
+publish|v|v.出版，发行
+purchase|n v|v.购买；n.购买
+pure|a|adj.纯的，纯粹的
+pursue|v|v.追求
+quality|n|n.质量，品质
+quit|v|v.停止，放弃
+quote|n v|n.引用；v.引述
+radiation|n|n.辐射
+raise|v|v.举起，筹集，提出
+random|a|adj.随机的(at~随机地)
+range|n v|n.范围；v.涉及(from...to...)
+rapid|a|adj.迅速的
+rarely|d|adv.很少
+reaction|n|n.反应(to)
+realise|v|v.意识到，实现（梦想）
+rebel|n v|v.造反；n.造反者
+recall|v|v.回忆
+recommend|v|v.推荐，建议
+recover|v|v.恢复
+recycle|v|v.循环
+refer|v|v.涉及，提到；查阅（to）
+reflect|v|v.反射，反映
+reform|n v|v.改革；n.改革
+refresh|v|v.恢复精神
+regardless|d|adv.不顾(of)
+region|n|n.地区，范围
+register|v|v.注册，登记
+regret|n v|v.后悔；n.后悔
+regular|a|adj.有规律的，定期的
+reject|v|v.拒绝，排斥
+relate|v|v.有关联(to)，陈述
+release|n v|v.释放；n.释放
+reliable|a|adj.可靠的
+reluctant|a|adj.不情愿的，勉强的
+remark|n v|v.评论；n.评论
+remind|v|v.提醒(of)
+remote|a|adj.偏远的
+remove|v|v.移除
+repeat|v|v.重复
+replace|v|v.取代
+represent|v|v.展示，代表
+require|v|v.要求
+resemble|v|v.与…相似
+reserve|n v|v.预定，保留；n.自然保护区
+resist|v|v.抵制，抵抗
+resolution|n|n.解决，决心
+resort|n|n.(度假）胜地
+respect|n v|v.尊敬，尊重；n.尊敬，尊重
+response|n|n.反应，响应(to)
+restless|a|adj.不安的
+restore|v|v.修复，恢复
+restrain|v|v.抑制
+restrict|v|v.限制
+resume|n v|n.简历；v.继续
+retain|v|v.保持，保留
+retire|n v|v.退休；n.退休
+retreat|n v|n.减少，撤退；v.撤退
+reveal|v|v.显示，表明
+revenge|n v|v.报复；n.报复
+reverse|a v|v.逆转；adj.相反的
+review|n v|v.复习；n.复习，评论
+revive|v|v.复苏
+reward|n v|v.奖赏；n.报酬
+risk|n v|v.冒...的危险；n.危险，风险
+rival|n v|n.对手；v.竞争
+rough|a|adj.粗糙的，艰难的
+routine|a n|n.例行公事；adj.常规的，例行的
+rural|a|adj.农村的
+sacrifice|n v|v.牺牲(for)；n.祭品
+salary|n|n.薪水
+satisfy|v|v.使满意
+scan|v|v.扫描，浏览
+scare|v|v.受惊吓
+schedule|n v|n.时间表；v.安排，预定
+scratch|v|v.抓
+sculpture|n|n.雕塑
+security|n|n.安全
+seek|v|v.寻找
+seize|v|v.抓住
+seldom|d|adv.很少
+select|v|v.挑选
+selfish|a|adj.自私的
+sensitive|a|adj.敏感的
+severe|a|adj.严重的
+shame|n|n.羞愧
+sharp|a|adj.急剧的，锋利的，灵敏的
+shock|n v|n.震惊；v.使震惊
+shortcoming|n|n.缺点
+shoulder|n v|n.肩膀；v.肩负
+shrink|v|v.缩水，收缩
+significant|a|adj.重要的
+similarity|n|n.相似，类似
+simplify|v|v.简化，使简单
+simulate|v|v.假装，模仿
+simultaneously|d|adv.同时地
+sincere|a|adj.真诚的
+sink|v|v.下沉(into)
+skeptical|a|adj.怀疑的
+skip|v|v.跳过
+slim|a v|adj.苗条的；v.变苗条第16页共16页
+slip|v|v.滑倒，溜走
+smooth|a v|v.使顺利，使光滑；adj.顺利的，光滑的
+solution|n|n.解决办法
+species|n|n.种类，（单复同形）物种
+specific|a|adj.特定的，具体的
+speech|n|n.演讲
+spirit|n|n.精神
+splendid|a|adj.极好的
+spot|n v|n.地点；v.发现
+spread|v|v.延伸，传播
+stare|v|v.凝视(at)
+starve|v|v.挨饿
+state|n v|n.情形，状态；v.声明
+stick|v|v.粘住，坚持(to)
+still|a d|adj.静止的；adv.甚至，仍然
+stimulus|n|n.刺激
+sting|v|v.叮
+store|n v|v.储存；n.商店
+straight|a|adj.直的，直接的第6页共16页
+strength|n|n.力量
+stress|n v|v.强调；n.压力，强调
+strict|a|adj.严格的(with)
+strike|n v|v.打；n.罢工
+struggle|n v|n.斗争，挣扎；v.斗争，挣扎(against)
+subject|a n|n.主题，实验对象；adj.服从的
+subordinate|a|adj.下级的，次要的
+success|n|n.成功
+suffer|v|v.遭受(from)
+summarize|v|v.概述
+superior|a|adj.上层的，较高的(to)
+support|v|v.支持
+suppose|v|v.假设，认为
+surgery|n|n.外科手术
+surround|v|v.包围
+survive|v|v.幸存
+sustainable|a|adj.可持续的
+swallow|v|v.吞下
+sweep|v|v.打扫，席卷
+switch|v|v.转换（on）
+symbol|n|n.象征
+sympathy|n|n.同情
+symptom|n|n.征兆，症状
+talent|n|n.天赋，才华
+tax|n|n.税
+temporary|a|adj.暂时的
+temptation|n|n.诱惑
+tend|v|v.趋向，照顾（to）
+theory|n|n.理论
+thick|a|adj.厚的
+thoroughly|d|adv.彻底地
+threaten|v|v.威胁
+tie|v|v.系，联系
+tight|a|adj.紧的
+time-consuming|a|adj.耗费时间的
+tiresome|a|adj.令人厌倦的
+tolerate|v|v.容忍，忍受
+tough|a|adj.艰难的，棘手的
+tourism|n|n.旅游业
+track|n v|v.跟踪；n.小路
+trade|n|n.贸易
+tragedy|n|n.悲剧
+trail|n|n.小径
+transfer|v|v.转移
+transform|v|v.转换
+transition|n|n.过渡，转变
+translate|v|v.翻译
+transmission|n|n.传输
+trap|n|n.陷阱
+treasure|n|n.财富
+treatment|n|n.对待，治疗
+tremble|v|v.发抖
+trend|n v|n.趋势；v.倾向
+trial|v|v.试验；审讯
+trick|n v|v.欺骗；n.诡计
+trigger|v|v.触发
+tropical|a|adj.热带的
+tuition|n|n.学费
+typical|a|adj.特有的，典型的
+unbelievable|a|adj.难以置信的
+uncertain|a|adj.不确定的
+unconscious|a|adj.无知觉(意识)的
+underline|v|v.在…下面划线，强调
+undoubtedly|d|adv.无疑地
+unemployment|n|n.失业
+unexpected|a|adj.想不到的，意外的
+unforgettable|a|adj.难忘的
+unique|a|adj.唯一的
+universal|a|adj.普遍的
+unwilling|a|adj.不愿意的
+urban|a|adj.城市的
+urgent|a|adj.紧急的
+vacant|a|adj.空的
+vain|a|adj.徒劳的(in~徒劳无功)
+valid|a|adj.有效的
+valuable|a|adj.贵重的
+vary|v|v.改变，不同
+vast|a|adj.广阔的
+vehicle|n|n.车辆，交通工具
+version|n|n.版本
+victim|n|n.受害者
+violence|n|n.暴力
+visible|a|adj.可见的
+vital|a|adj.至关重要的
+vivid|a|adj.生动的
+volatile|a|adj.不稳定的，易变的
+volunteer|n v|n.志愿者；v.(自愿)做第3页共16页
+wag|n v|v.(狗)摇摆(尾巴)；n.摇摆
+wander|v|v.漫步，闲逛
+warn|v|v.警告
+weaken|v|v.削弱
+wealth|n|n.财富
+weigh|v|v.称(重量)，重达
+whisper|v|v.耳语，私语
+widen|v|v.使变宽
+wild|a|adj.野生的
+wipe|v|v.擦
+withdraw|v|v.撤回，取回
+witness|n v|v.目击；n.目击者，证人
+wonder|n v|n.奇迹；v.想知道
+worthwhile|a|adj.值得(做)的
+wrap|v|v.包，裹

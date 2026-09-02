@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">高频词检测</string>
+    <string name="sc_camera_short">拍照检测</string>
+    <string name="sc_camera_long">拍课本并检测超纲词</string>
+    <string name="sc_camera_disabled">拍照检测</string>
+    <string name="sc_paste_short">粘贴检测</string>
+    <string name="sc_paste_long">读剪贴板并检测</string>
+    <string name="sc_paste_disabled">粘贴检测</string>
+</resources>

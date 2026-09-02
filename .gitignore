@@ -1,0 +1,37 @@
+# Gradle / build
+.gradle/
+build/
+app/build/
+.kotlin/
+
+# Android
+*.apk
+*.aab
+*.ap_
+*.dex
+*.class
+output.json
+release/
+
+# IDE
+.idea/
+*.iml
+.qoder/
+
+# Local SDK paths & signing
+local.properties
+*.jks
+*.keystore
+*.p12
+keystore.properties
+
+# Python (tools/)
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# OS / scratch
+Thumbs.db
+Desktop.ini
+*.log
