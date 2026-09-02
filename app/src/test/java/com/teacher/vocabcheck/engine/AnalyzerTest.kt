@@ -65,6 +65,25 @@ class AnalyzerTest {
     }
 
     @Test
+    fun `同属三张词表时保留完整归属并各计一次`() {
+        val report = Analyzer(
+            VocabIndex.build(
+                listOf(
+                    WordEntry("water", "n", "水", setOf(WordTier.BASE)),
+                    WordEntry("water", "n", "水", setOf(WordTier.CORE_JUNIOR)),
+                    WordEntry("water", "n", "水源", setOf(WordTier.CORE_EXAM))
+                )
+            )
+        ).analyze("The water.")
+        assertEquals(
+            listOf(WordTier.CORE_EXAM, WordTier.CORE_JUNIOR, WordTier.BASE),
+            report.hits.first().tiers
+        )
+        assertEquals(WordTier.CORE_EXAM, report.tokens.first { it.surface == "water" }.tier)
+        WordTier.entries.forEach { assertEquals(1, report.countOf(it)) }
+    }
+
+    @Test
     fun `缩写拆开后各部分独立判定`() {
         val token = analyzer.analyze("They don't study.").tokens.first { it.surface == "don't" }
         assertEquals(WordTier.BASE, token.tier)
@@ -99,7 +118,7 @@ class AnalyzerTest {
 
     @Test
     fun `清单先按档位再按出现次数排序`() {
-        val tiers = analyzer.analyze("Water and parks and children and children.").hits.map { it.tier }
+        val tiers = analyzer.analyze("Water and parks and children and children.").hits.map { it.tiers.first() }
         assertEquals(listOf(WordTier.CORE_EXAM, WordTier.CORE_JUNIOR, WordTier.BASE), tiers)
     }
 

@@ -90,9 +90,9 @@ class VocabViewModel(app: Application) : AndroidViewModel(app) {
     fun exportText(): String {
         val report = _state.value.report ?: return _state.value.input
         return buildString {
-            appendLine("共 ${report.matched} 处用词命中核心词表")
+            appendLine("共 ${report.matched} 处用词命中词表；一词同属多表时在各表下重复列出")
             for (tier in WordTier.entries) {
-                val words = report.hits.filter { it.tier == tier }
+                val words = report.hits.filter { tier in it.tiers }
                 if (words.isEmpty()) continue
                 appendLine()
                 appendLine("【${tier.label()}】${words.size} 个")
@@ -109,7 +109,7 @@ class VocabViewModel(app: Application) : AndroidViewModel(app) {
     }
 
     fun exportHits(tier: WordTier): String =
-        _state.value.report?.hits?.filter { it.tier == tier }?.joinToString("\n") { it.lemma }.orEmpty()
+        _state.value.report?.hits?.filter { tier in it.tiers }?.joinToString("\n") { it.lemma }.orEmpty()
 
     private fun reanalyze() {
         val loaded = catalog ?: return
